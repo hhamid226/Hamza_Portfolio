@@ -19,9 +19,9 @@ export const siteConfig = {
       link: "https://github.com/hhamid226/TravelJournal",
       skills: ["React", "Node.js", "MongoDB", "Leaflet"],
       screenshots: [
-          "/screenshots/Travel_Journal_1.png",
-          "/screenshots/Travel_Journal_2.png",
-          "/screenshots/Travel_Journal_3.png",
+          "/Hamza_Portfolio/screenshots/Travel_Journal_1.png",
+          "/Hamza_Portfolio/screenshots/Travel_Journal_2.png",
+          "/Hamza_Portfolio/screenshots/Travel_Journal_3.png",
       ],
     },
   ],
@@ -30,7 +30,7 @@ export const siteConfig = {
       company: "General Motors (GM)",
       title: "Software Engineer II",
       dateRange: "Feb 2022 - Present",
-      logo: "/general_motors_logo.png",
+      logo: "/Hamza_Portfolio/general_motors_logo.png",
       bullets: [
         "Delivered 40+ full-stack features for dealer-facing applications used by thousands of users, including frontend development (Angular 20, TypeScript) and backend development (Java/Spring Boot, REST APIs, microservices), improving system performance and UI responsiveness by up to 35%",
         "Supported a dealer-facing vendor management portal and fulfillment center mapping tools, providing UX/UI enhancements that reduced team workload by 30%, enabled on-time releases, and improved operational efficiency by 25%",
@@ -45,7 +45,7 @@ export const siteConfig = {
       school: "Georgia Institute of Technology (Georgia Tech)",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2017 - 2021",
-      logo: "/Georgia-Tech-Logo.png",
+      logo: "/Hamza_Portfolio/Georgia-Tech-Logo.png",
       achievements: [
         "Gates Millennium Scholarship Recipient",
       ],
